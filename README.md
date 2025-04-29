@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**janKaje/janKaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Kyle (AKA jan Kaje)
 
-Here are some ideas to get you started:
+Chemical/nuclear engineering student at BYU, Python enthusiast, math and language nerd. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current projects
+* myDB: a personal tool to assist with engineering calculations
+* BarrelBot: a discord bot for a friend group server
+
+### Paused/past projects
+* BoM parallel reader: a tool for reading the Book of Mormon simultaneously in two different languages
+* salana: a discord bot for a large discord server centered around the constructed language toki pona. No longer in use.
+* Netherrack furnaces: a small Minecraft mod
