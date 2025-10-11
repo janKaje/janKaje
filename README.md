@@ -12,3 +12,4 @@ Chemical/nuclear engineering student at BYU, Python enthusiast, math and languag
 * BoM parallel reader: a tool for reading the Book of Mormon simultaneously in two different languages
 * salana: a discord bot for a large discord server centered around the constructed language toki pona. No longer in use.
 * Netherrack furnaces: a small Minecraft mod
+* 374_final_project: a fluid mechanics project from my sophomore year
