@@ -2,7 +2,7 @@
 
 ### I'm Kyle (AKA jan Kaje)
 
-Chemical/nuclear engineering student at BYU, Python enthusiast, math and language nerd. 
+B.S. in Chemical Engineering from BYU, Python enthusiast, math and language nerd. 
 
 ### Current projects
 * myDB: a personal tool to assist with engineering calculations
