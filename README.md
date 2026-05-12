@@ -5,6 +5,7 @@
 B.S. in Chemical Engineering from BYU, Python enthusiast, math and language nerd. 
 
 ### Current projects
+* Voltammetry-Solver: an expansion of BYU PyRO Lab's [voltammetry simulator](https://github.com/byu-pyro/Voltammetry/tree/main/Advanced_Model), created in conjunction with Dr. Devin Rappleye. Currently being finalized for general use.
 * myDB: a personal tool to assist with engineering calculations
 * BarrelBot: a discord bot for a friend group server
 
